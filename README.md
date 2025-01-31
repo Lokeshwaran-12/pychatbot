@@ -48,6 +48,10 @@ python chatbot.py
 - Transformers library for model implementation
 - Gradio for the web interface
 - Python 3.8+
+  
+## user interface
+![Chatbot Output](<img width="1432" alt="Screenshot 2025-01-31 at 10 40 07 PM" src="https://github.com/user-attachments/assets/65029c10-6211-47ef-99c1-f2f1f14ac474" />
+)
 
 ## Contributing
 
