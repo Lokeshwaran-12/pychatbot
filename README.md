@@ -50,7 +50,7 @@ python chatbot.py
 - Python 3.8+
   
 ## user interface
-![Chatbot user interface](<img width="1432" alt="Screenshot 2025-01-31 at 10 40 07 PM" src="https://github.com/user-attachments/assets/65029c10-6211-47ef-99c1-f2f1f14ac474" />
+![Chatbot user interface](<img width="1432" alt="Screenshot 2025-01-31 at 10 40 07 PM" src="https://github.com/user-attachments/assets/0a60d748-da2f-4b41-9408-e52f924d51ec" />
 )
 
 ## Contributing
